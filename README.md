@@ -1,2 +1,2 @@
-# Data_Science_ESS
-Michelle has created a repository to store all her work related to the Data Science in ESS course.
+# Michelle_Master_Repo
+This is a master repository where I will store research, data, scripts, and manuscripts. 
