@@ -5,6 +5,3 @@ This is a master repository where I will store research, data, scripts, and manu
 
 - Created on Week 3 of Data Science in ESS Course
 
-- Links to website & social media
-
-- Contact details
